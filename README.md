@@ -1,2 +1,28 @@
 # Gerenciador-de-Mult-metros
-Código desenvolvido por Anderson Santos, Danieli Aguiar, Giovanni da Rocha, Kaylane Brandão e Larissa Isabelle para a disciplina "Tópicos Especiais de Engenharia", componente do curso de Engenharia de Controle e Automação
+Este código foi desenvolvido com o objetivo de apoiar o gerenciamento dos multímetros utilizados no Laboratório 66 da Faculdade Engenheiro Salvador Arena (FESA). Trata-se de um componente de avaliação da disciplina Tópicos Especiais de Engenharia, integrante da grade curricular do curso de Engenharia de Controle e Automação (ECA). Foi desenvolvida uma interface gráfica e integração com o banco de dados MongoDB. 
+
+Desenvolvedores:
+**Anderson Santos**
+**Danieli Aguiar**
+**Giovanni da Rocha**
+**Kaylane Brandão**
+**Larissa Isabelle**
+
+## 🔧 Tecnologias e Ferramentas Utilizadas
+
+- **Visual Studio Code (VS-Code)**
+- **MongoDB Enterpise**
+- **Pynthon**
+- **Tkinter**
+
+## 🖥️ Arquivos Disponibilizados 
+
+- **Código Final:** Contém a programação desenvolvida
+
+- ## 🖥️ Funcionamento
+
+- O usuário visualiza dois campos na interface gráfica, o primeiro "Gerenciamento de Multímetros" e o segundo "Gerenciamento da Manutenção dos Multímetros". O primeiro é utilizado para verificação da disponibilidade do instrumento, permitindo uma rápida busca pelos itens disponíveis ou indisponíveis, além de permitir a inclusão ou exclusão de cadastros no banco de dados.
+
+- O segundo campo é voltado ao gerenciamento da manutenção, permitindo que o operador informe quais instrumentos estão em manutenção e fornecendo informações como data, técnico responsável, tipo de manutenção e observações.
+
+![IInterface Gráfica](https://github.com/user-attachments/assets/075df1fb-11ca-4f01-83c5-9c911e2d12b1)
