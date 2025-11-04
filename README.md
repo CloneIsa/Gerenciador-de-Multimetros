@@ -2,10 +2,10 @@
 Este código foi desenvolvido com o objetivo de apoiar o gerenciamento dos multímetros utilizados no Laboratório 66 da Faculdade Engenheiro Salvador Arena (FESA). Trata-se de um componente de avaliação da disciplina Tópicos Especiais de Engenharia, integrante da grade curricular do curso de Engenharia de Controle e Automação (ECA). Foi desenvolvida uma interface gráfica e integração com o banco de dados MongoDB. 
 
 Desenvolvedores:
-**Anderson Santos**
-**Danieli Aguiar**
-**Giovanni da Rocha**
-**Kaylane Brandão**
+**Anderson Santos**,
+**Danieli Aguiar**,
+**Giovanni da Rocha**,
+**Kaylane Brandão** e 
 **Larissa Isabelle**
 
 ## 🔧 Tecnologias e Ferramentas Utilizadas
