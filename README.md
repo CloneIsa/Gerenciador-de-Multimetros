@@ -24,5 +24,5 @@ Desenvolvedores:
 - O usuário visualiza dois campos na interface gráfica, o primeiro "Gerenciamento de Multímetros" e o segundo "Gerenciamento da Manutenção dos Multímetros". O primeiro é utilizado para verificação da disponibilidade do instrumento, permitindo uma rápida busca pelos itens disponíveis ou indisponíveis, além de permitir a inclusão ou exclusão de cadastros no banco de dados.
 
 - O segundo campo é voltado ao gerenciamento da manutenção, permitindo que o operador informe quais instrumentos estão em manutenção e fornecendo informações como data, técnico responsável, tipo de manutenção e observações.
-
-![IInterface Gráfica](https://github.com/user-attachments/assets/075df1fb-11ca-4f01-83c5-9c911e2d12b1)
+  
+<img width="997" height="877" alt="Janela final" src="https://github.com/user-attachments/assets/7928c438-0262-4492-bb2f-738c8176b56c" />
