@@ -17,7 +17,7 @@ Desenvolvedores:
 
 ## 🖥️ Arquivos Disponibilizados 
 
-- **Código Final:** Contém a programação desenvolvida
+- **Gerenciar Multímetros.py:** Contém a programação desenvolvida
 
 - ## 🖥️ Funcionamento
 
